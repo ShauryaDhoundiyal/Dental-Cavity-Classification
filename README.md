@@ -2,8 +2,8 @@
 Objective
 This project aims to develop a machine learning model to classify dental X-ray images into two categories: caries and no caries.
 
-#Overview:
-#Dental cavities, or caries, are a common dental issue that can lead to serious health problems if left untreated. Accurate and timely detection is crucial for effective treatment. This project utilizes machine learning techniques to assist in the automated classification of dental X-ray images, potentially aiding dentists in diagnosis.
+# Overview:
+# Dental cavities, or caries, are a common dental issue that can lead to serious health problems if left untreated. Accurate and timely detection is crucial for effective treatment. This project utilizes machine learning techniques to assist in the automated classification of dental X-ray images, potentially aiding dentists in diagnosis.
 
 Project Components
 Data Preprocessing:
