@@ -12,21 +12,29 @@ Project Components
 1. Data Preprocessing:
 
 Image Normalization and Augmentation: Standardized the images for uniform input into the models. Applied augmentation techniques to enhance the dataset and improve model robustness.
+
 Label Encoding: Encoded image labels to categorize them into caries and no caries.
 
 2. Model Development:
 
 Custom CNN Model: Designed and implemented a Convolutional Neural Network (CNN) using Keras with a TensorFlow backend to classify the images.
+
 Transfer Learning Models: Integrated and compared the custom CNN with four pre-trained transfer learning models:
+
 MobileNet
+
 ResNet50
+
 VGG16
+
 InceptionV3
 
 3. Model Training and Evaluation:
 
 Training: Trained the custom CNN and transfer learning models on the preprocessed dataset.
+
 Evaluation: Evaluated model performance using metrics such as accuracy, precision, recall, and F1 score.
+
 Comparison: Compared the performance of the custom CNN with the transfer learning models to identify the best-performing model.
 
 4. Results and Analysis:
